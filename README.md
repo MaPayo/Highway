@@ -1,2 +1,4 @@
 # Highway
- Proyecto realizado para la asignatura de "Ingeniería del Software" de 2º del Grado de Ingeniería del Software de la UCM
+ Proyecto realizado para la asignatura de "Ingeniería del Software" de 2º del Grado de Ingeniería del Software de la UCM.
+ Autores: Marina Payo Rubio. Gonzalo Rivas Fernández.
+ 
